@@ -33,5 +33,5 @@
 </div>
 <br>
 <div align="center">
-	<p style="color:gray">© 2023 - 2025. Jay all rights reserved.</p>
+	<p style="color:gray">© 2023 - 2026. Jenna all rights reserved.</p>
 </div>
