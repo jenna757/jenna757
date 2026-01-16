@@ -1,19 +1,11 @@
 <div align="right">
 	<a href="https://github.com/celinechoi"><img src="https://komarev.com/ghpvc/?username=celinechoi&label=Profile%20views&color=B897FF&style=flat" alt="celine"></a>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,5,30&height=185&section=header&text=Hello&ensp;(●'◡'●)&fontSize=40&animation=fadeIn&fontColor=f0f0f0&fontAlign=50&&fontAlignY=30&desc=WebPublisher&ensp;Jay's&ensp;Github🌊&descSize=22&&descAlign=50&descAlignY=55">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,5,30&height=185&section=header&text=Hello&ensp;(●'◡'●)&fontSize=40&animation=fadeIn&fontColor=f0f0f0&fontAlign=50&&fontAlignY=30&desc=UIUX&ensp;Developer&ensp;Jenna's&ensp;Github🌊&descSize=22&&descAlign=50&descAlignY=55">
 
 <div align="center">
 
-## 🌼 Welcome to Jay's Github Repositories 👋 
-### 🌱 I’m currently interested in `GSAP plugin`
-</dv>
-
-<br>
-<div align="center">
-	<a href="https://github.com/celinechoi?tab=repositories"><img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinechoi&langs_count=10&layout=compact&theme=nord&hide_border=true" alt="celine github most used languages"></a>
-	<a href="https://github.com/celinechoi?tab=repositories"><img align="center" style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=celinechoi&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="celine github stats" /></a>
-</div>
+## 🌼 Welcome 👋&ensp; I’m currently interested in `Sass` 👩🏼‍💻
 
 <div align="center">
 	<h3>🎨MY SNS🖌</h3>
