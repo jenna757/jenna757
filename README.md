@@ -38,5 +38,5 @@
 </div>
 <hr>
 <div align="center">
-	<p style="color:gray">© 2023 - 2026. Jenna all rights reserved.</p>
+	<p style="color:gray">© 2023 - 2026. jinseul all rights reserved.</p>
 </div>
