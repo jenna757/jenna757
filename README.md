@@ -9,7 +9,7 @@
 
 <div align="center">
 	<h3>📚TECH STACK📚</h3>
-	<span><img src="https://img.shields.io/badge/Cursor-FFFFFF?style=for-the-badge&logo=cursor&logoColor=black"></span> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+	<img src="https://img.shields.io/badge/Cursor-FFFFFF?style=for-the-badge&logo=cursor&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 	<br>
 	<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 	<br>
